@@ -11,6 +11,7 @@ An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy pr
 * [Making Chess Clone in 3D](https://caballerocoll.com/blog/bevy-chess-tutorial): Walkthrough on how to make a Chess Clone with 3D pieces
 * [Using Rapier for Physics](https://sburris.xyz/posts/bevy-gravity/)
 * [Making a Rhythm game](https://caballerocoll.com/blog/bevy-rhythm-game): Walkthrough on how to make a Rhythm game, with menu, audio and shaders.
+* [Developing Bevy games using test-driven development](https://richelbilderbeek.github.io/bevy_tdd_book/): Book that starts from the basics and uses test-driven development to develop tested code
 
 ### Migration Guides
 
